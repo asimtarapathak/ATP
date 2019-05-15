@@ -56,7 +56,7 @@ def takeInput():
 
 
 #def sendEmail(to,content):
-#   server = smtplib.SMTP("mail.asimpathak.com.np",465)
+#   server = smtplib.SMTP("",)
 #    server.ehlo()
 #    server.starttls() we can also use text file for password for security reason and use path instead of password
 #    server.login("your login@emailid.com","password")
