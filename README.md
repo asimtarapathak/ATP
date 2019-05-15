@@ -8,6 +8,8 @@
 -> Play Music
 -> Send Email (I don't recommend to use this feature due to security reason)
 -> Shutdown/restart computer
+-> Logout
+-> time telling
 -> Show wifi password
 -> And you can add many more feature easily
 
