@@ -1,5 +1,5 @@
 # ATP  Asim Tara Pathak
-
+This works on your voice command.
 # Feature of ATP:
 -> Do Greeting
 -> google Search
@@ -23,4 +23,4 @@ Feel free to use and customise this and share with your friends.
 The main file is jarvis.py and other files are not necessary if your device already have python modules so you can only download jarvis.py 
 only then run on command promt.
 
-Note: You Must edit your application path inorder to open them with command.
+Note: You Must edit your application path inorder to perform all action with voice.
