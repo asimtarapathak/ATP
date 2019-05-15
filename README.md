@@ -4,6 +4,7 @@
 -> Do Greeting
 -> google Search
 -> Wikipedia search and voice response
+-> Opens web apps like Facebook, youtube
 -> Open Programs
 -> Play Music
 -> Send Email (I don't recommend to use this feature due to security reason)
